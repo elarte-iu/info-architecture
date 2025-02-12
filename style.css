@@ -2,15 +2,34 @@ body {
     background-color:burlywood; 
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-h1 {margin: 50px 75px 50px 75px; 
+h1 {
+    margin: 50px 75px 50px 75px; 
     border-width: thin;
 border-style: dotted; 
 border-color: aqua;
-color: blue;}
-h2 {margin: 25px 50px 25px 50px;
-color: darkslateblue;}
-p {width: fit-content;
+color: blue;
+}
+h2 {
+    margin: 25px 50px 25px 50px;
+color: darkslateblue;
+}
+p {
+    width: fit-content;
     margin: auto;
 font-size: large;
-line-height: 45px;}
-li {color:paleturquoise}
+line-height: 45px;
+}
+li {
+    color:paleturquoise
+}
+img {
+    border-radius: 15px;
+}
+a {
+    text-decoration: none;
+}
+footer {
+    background-color: darkgoldenrod;
+margin: auto;
+padding: 100px 250px;
+}
