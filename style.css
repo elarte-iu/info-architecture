@@ -15,7 +15,7 @@ color: darkslateblue;
 }
 p {
     width: fit-content;
-    margin: auto;
+    text-align: center;
 font-size: large;
 line-height: 45px;
 }
@@ -30,6 +30,6 @@ a {
 }
 footer {
     background-color: darkgoldenrod;
-margin: auto;
+text-align: center;
 padding: 100px 250px;
 }
