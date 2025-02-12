@@ -1,5 +1,5 @@
 body {
-    background-color: hotpink; 
+    background-color:burlywood; 
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1 {margin: 50px 75px 50px 75px; 
@@ -11,4 +11,4 @@ h2 {margin: 25px 50px 25px 50px;
 color: darkslateblue;}
 p {margin: auto;
 font-size: large;
-line-height: 15px;}
+line-height: 25px;}
