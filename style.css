@@ -9,6 +9,8 @@ border-color: aqua;
 color: blue;}
 h2 {margin: 25px 50px 25px 50px;
 color: darkslateblue;}
-p {margin: auto;
+p {width: fit-content;
+    margin: auto;
 font-size: large;
-line-height: 25px;}
+line-height: 45px;}
+li {color:paleturquoise}
