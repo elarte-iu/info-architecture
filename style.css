@@ -5,6 +5,10 @@ body {
 h1 {margin: 50px 75px 50px 75px; 
     border-width: thin;
 border-style: dotted; 
-border-color: aqua;}
-h2 {margin: 25px 50px 25px 50px;}
-p {margin: auto;}
+border-color: aqua;
+color: blue;}
+h2 {margin: 25px 50px 25px 50px;
+color: darkslateblue;}
+p {margin: auto;
+font-size: large;
+line-height: 15px;}
