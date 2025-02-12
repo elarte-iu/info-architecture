@@ -1,0 +1,10 @@
+body {
+    background-color: hotpink; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {margin: 50px 75px 50px 75px; 
+    border-width: thin;
+border-style: dotted; 
+border-color: aqua;}
+h2 {margin: 25px 50px 25px 50px;}
+p {margin: auto;}
