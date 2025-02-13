@@ -1,7 +1,6 @@
 body {
     background-color:burlywood; 
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width:300px;
     margin:auto;
 }
 h1 {
@@ -14,8 +13,8 @@ color: blue;
 }
 h2 {
     margin: 25px 50px 25px 50px;
-    padding: 2
-color: darkslateblue;
+    padding: 25px;
+    color: darkslateblue;
 }
 p {
     width: fit-content;
