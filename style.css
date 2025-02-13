@@ -1,7 +1,8 @@
 body {
     background-color:burlywood; 
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin:auto;
+    width: 25px;
+    margin: auto;
 }
 h1 {
     margin: 50px 75px 50px 75px; 
