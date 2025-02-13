@@ -9,12 +9,12 @@ h1 {
     border-width: thin;
 border-style: dotted; 
 border-color: aqua;
-color: blue;
+color:saddlebrown;
 }
 h2 {
     margin: 25px 50px 25px 50px;
     padding: 25px;
-    color: darkslateblue;
+    color:brown;
 }
 p {
     width: fit-content;
@@ -23,7 +23,7 @@ font-size: large;
 line-height: 45px;
 }
 li {
-    color:paleturquoise
+    color:crimson;
 }
 img {
     border-radius: 15px;
