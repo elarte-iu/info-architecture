@@ -4,6 +4,7 @@ body {
 }
 h1 {
     margin: 50px 75px 50px 75px; 
+    padding: 50px;
     border-width: thin;
 border-style: dotted; 
 border-color: aqua;
@@ -11,6 +12,7 @@ color: blue;
 }
 h2 {
     margin: 25px 50px 25px 50px;
+    padding: 2
 color: darkslateblue;
 }
 p {
